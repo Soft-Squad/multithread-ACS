@@ -25,13 +25,13 @@ The <input_file> has a simple format that MUST be followed. The first line conta
 8. A newline (\n) ends a line.
 Do not worry about checking a false input file.
 
-Sample Input:
-8
-1:0,2,60
-2:0,4,70
-3:0,5,50
-4:1,7,30
-5:1,7,40
-6:1,8,50
-7:0,10,30
-8:0,11,50
+Sample Input:<br/>
+8<br/>
+1:0,2,60<br/>
+2:0,4,70<br/>
+3:0,5,50<br/>
+4:1,7,30<br/>
+5:1,7,40<br/>
+6:1,8,50<br/>
+7:0,10,30<br/>
+8:0,11,50<br/>
