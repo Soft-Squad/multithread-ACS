@@ -7,9 +7,11 @@ Developed for CSC 360 - Operating Systems Fall 2021 - Rewritten in Go
 
 Download the files and type 'make' into the command line.
 
-## Usage
+## C Usage
 
 Type ./ACS <input_file> to start the program.
+
+## Go Usage
 
 ## File Format
 
