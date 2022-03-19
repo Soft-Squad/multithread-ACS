@@ -1,7 +1,7 @@
 # Multithreaded Airline Check-In Simulator
 
 This is a task scheduler which includes a single queue and 5 clerks. The queue will be sorted based on priority (business = 1 being higher than economy = 0) of customers followed by their arrival time. 
-Developed for CSC 360 - Operating Systems Fall 2021 - Rewritten in Go
+Developed for CSC 360 - Operating Systems Fall 2021 - Rewriting in Go
 
 ## Installation
 
